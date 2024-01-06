@@ -1,6 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-// Начальное значение
 const initialState = {
   value: 0,
 };

@@ -1,7 +1,5 @@
 import React from "react";
-// Хуки находятся в react-redux
 import { useSelector, useDispatch } from "react-redux";
-// Импортируем нужные действия
 import {
   decrement,
   increment,
